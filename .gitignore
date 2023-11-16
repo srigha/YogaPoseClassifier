@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.wheel/
+
+# PyInstaller
+*.spec
+
+# Test reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Python debug files
+*.pyo
+*.pyd
+
+# Custom Label
+# Add any file or folder you want to exclude that's specific to your project
